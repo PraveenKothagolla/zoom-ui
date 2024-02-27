@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+.container{
+    
+    margin-left:270px;
+    margin-top:30px;
+    
+}
+div.a,div.b,div.c,div.d{
+    border:2px solid  white;
+    height:100px;
+    width:150px;
+    display:inline-block;
+    margin:2px;
+
+
+    
+    
+    
+    
+}
+p{
+    padding-left:40px;
+    padding-top:px;
+    color:white
+}
+.p{
+   text-align:left;
+   padding-left:30px;
+   padding-top:1px;
+}
+img{
+    height:40px;
+    width:40px;
+}
+span{
+    color:aliceblue;
+}
+.im{
+    height:10px;
+    width:10px;
+}
+.image{
+    padding-top:15px;
+}
